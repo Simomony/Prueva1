@@ -1,0 +1,31 @@
+{
+  "cliente": {
+    "id1": {
+      "Apellido ": "Ac Quim",
+      "Celular": "1234-1234",
+      "Correo": "heder@gmail",
+      "Dirección": "dirección 1",
+      "Nombre": "Heder Absael "
+    },
+    "id2": {
+      "Apellido": "Ac Quim",
+      "Celular": "2345-1234",
+      "Correo": "abner@gmail",
+      "Nombre": "Abner Hermelindo",
+      "dirección": "dirección2"
+    }
+  },
+  "cliente-evento": {
+    "id1": {
+      "idcliente": "",
+      "idevento": ""
+    }
+  },
+  "evento": {
+    "id1": {
+      "Descripción": "descripcion1",
+      "Nombre": "evento1",
+      "Precio": 11.5
+    }
+  }
+}
